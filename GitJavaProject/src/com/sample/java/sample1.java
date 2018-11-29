@@ -7,7 +7,7 @@ public class sample1 {
 
 		System.out.println("v1");
 		
-		
+		System.out.println("v2");
 	}
 
 }
